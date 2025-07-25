@@ -502,5 +502,7 @@ h1 {
   .footer-links {
     flex-direction: column;
   }
-  
+  .flower-badge {
+    display: none;
+  } 
 }
